@@ -1,0 +1,91 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Dekko', cursive;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: blueviolet; 
+  background-color: #fff4fd;
+
+
+  
+}
+#body-image{
+  margin: 60px;
+  width: 80%;
+  border: blueviolet solid 1px;
+  border-radius: 25px;
+}
+#indivImage {
+  border: blueviolet solid 1px;
+  border-radius: 25px;
+}
+
+h1 {font-size: 40px;
+}
+h3{font-size: 40px;}
+
+button {
+  margin-top: 20px;
+  width: 300px;
+  height: 40px;
+  background: hotpink;
+  font-size: 20px;
+  color: white;
+  border-radius: 25px;
+}
+
+button:hover {
+  background-color: pink;
+}
+
+ul {
+  list-style: none;
+}
+
+
+#logo {
+  height: 20px;
+  width: 20px;
+}
+
+
+
+label
+{
+  color: #666;
+  cursor: pointer;
+} 
+
+fieldset {
+  border-radius: 30px;
+  padding: 10px;
+  background-color: pink;
+  font-size: 30px;
+  border: blueviolet solid 2px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+
+  
+}
+
+
+
+
+@media screen and (min-width: 1200px) {}
+
+
+
+
+
+@media screen and (min-width: 600px) {}
+
+
+
+
+
+
+@media screen and (min-width: 300px) {}
+
+
